@@ -6,12 +6,12 @@ model:
     parameters:
         tools: ${file:chat_query_rewrite_tools.json}
 sample:
-    user_query: Does it include hearing?
+    user_query: Does the MDX come with Apple CarPlay compatibility?
     past_messages:
         - role: user
-          content: "What is included in my Northwind Health Plus plan that is not in standard?"
+          content: "How do I enroll in AcuraLink®?"
         - role: assistant
-          content: "The Northwind Health Plus plan includes coverage for emergency services, mental health and substance abuse coverage, and out-of-network services, which are not included in the Northwind Standard plan. [Benefit_Options.pdf#page=3]"
+          content: "To begin enrollment, you will need to download the AcuraLink® app to your Apple® or Android™ mobile device and create an AcuraLink® account. Follow the instructions in the AcuraLink® app to complete the enrollment for your Acura vehicle.If you’d still like to learn more about AcuraLink® features, compatibility and pricing, you can click here to enter the vehicle info you’d like to learn about.. [AcuraLink.md#page=3]"
 ---
 system:
 Below is a history of the conversation so far, and a new question asked by the user that needs to be answered by searching in a knowledge base.
@@ -24,16 +24,16 @@ If the question is not in English, translate the question to English before gene
 If you cannot generate a search query, return just the number 0.
 
 user:
-How did crypto do last year?
+How do i adjust the clock for my 2025 Acura MDX?
 
 assistant:
-Summarize Cryptocurrency Market Dynamics from last year
+Provide step by step instructions to adjust clock for Acura MDX 2025
 
 user:
-What are my health plans?
+What type of motor oil should I use in my Acura?
 
 assistant:
-Show available health plans
+List the type of motor oil that should be used for Acura vehicles
 
 {% for message in past_messages %}
 {{ message["role"] }}:

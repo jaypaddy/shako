@@ -1,0 +1,171 @@
+- **Engineering**
+    - Engine Type: Turbo Aluminum-alloy 4-Cylinder
+    - Turbo Type: Mono-scroll
+    - Displacement (liters): 2
+    - Horsepower (SAE net @ rpm): 272 @ 6,500
+    - Torque (lb.-ft. @ rpm): 280 @ 1,600-4,500
+    - Valvetrain: 16-Valve, DOHC VTEC®
+    - Compression Ratio: 9.8:1
+    - Fuel Injection: Direct
+    - Throttle Control: Drive-by-Wire Throttle System
+    - Idle Stop: Not specified
+    - CARB Emissions Rating: ULEV50
+    - Tune-Up Interval: 100k +/- Miles No Scheduled Tune-Ups
+    - Acura Maintenance Program: 1-year/12,000-mile
+
+- **Drivetrain**
+    - SH-AWD® (Super Handling All-Wheel Drive™)
+    - 10-Speed Automatic Transmission
+    - Sequential SportShift Paddle Shifters
+        - Gear Ratios:
+            - 1st: 5.25
+            - 2nd: 3.27
+            - 3rd: 2.19
+            - 4th: 1.6
+            - 5th: 1.3
+            - 6th: 1
+            - 7th: 0.78
+            - 8th: 0.65
+            - 9th: 0.58
+            - 10th: 0.52
+            - Reverse: 3.97
+            - Final Drive: 4.17
+    - Towing Capacity: 1500 lbs.
+
+- **Fuel Economy**
+    - EPA Fuel Economy Ratings (City/Highway/Combined): 21 / 27 / 23
+    - Recommended Fuel: Premium Unleaded 91 Octane
+    - Fuel Tank Capacity: 17.1 U.S. gal
+
+- **Chassis**
+    - MacPherson Strut Front Suspension
+    - Multi-Link Rear Suspension
+    - Stabilizer Bar (mm) (front/rear): 30.0/23.0
+    - Amplitude Reactive Dampers
+    - Electric Power-Assisted Rack-and-Pinion Steering (EPS)
+    - Integrated Dynamics System (IDS)
+    - Agile Handling Assist®
+    - Ventilated Front Disc / Solid Rear Disc Brakes (in.): 12.4/12.2
+    - Aluminum-Alloy Wheels: 19 x 8.0J Shark Gray Machine-Finished
+    - All-Season Tires: 235/55 R19
+    - Spare Tire: T155/90D17
+    - Steering Ratio (Variable): 12.0:1
+    - Turning Diameter, Curb to Curb (ft.): 38.9
+
+- **Dimensions**
+    - Length (in.): 187.4
+    - Width (in.): 74.8
+    - Height (in.): 65.7
+    - Wheelbase (in.): 108.3
+    - Track (in.) (front/rear): 64.2/64.7
+    - Ground Clearance (in.) (unladen): 8.2
+    - Interior:
+        - Headroom (in.) (first row / second row): 40.0/38.0
+        - Legroom (in.) (front/rear): 42.0/38.0
+        - Shoulder Room (in.) (front/rear): 60.0/57.0
+        - Hiproom (in.) (front/rear): 55.0/50.0
+        - EPA Passenger Volume (cu ft.): 104
+        - Cargo Volume (cu ft.):
+            - Behind First Row, Standard / Max: 58.9 / 79.8
+            - Behind Second Row, Standard / Max: 29.5 / 31.1
+
+- **Weight**
+    - Curb Weight (lbs.): 4040
+    - Weight Distribution (%) (front/rear): 57/43
+
+- **Features**
+    - Collision Mitigation Braking System™ (CMBS™)
+    - Road Departure Mitigation (RDM) System
+    - Lane Departure Warning (LDW) System
+    - Forward Collision Warning (FCW) System
+    - Adaptive Cruise Control (ACC) with Low-Speed Follow
+    - Lane Keeping Assist System (LKAS)
+    - Traffic Sign Recognition (TSR)
+    - Blind Spot Information System (BSI)
+    - Rear Cross Traffic Monitor (CTM)
+    - Pedestrian Detection
+    - Low Speed Autonomous Emergency Braking (AEB)
+    - Auto High-Beam Headlights
+    - Parking Sensors (4 Front & 4 Rear)
+
+- **Safety & Driver Assistive Technology**
+    - Advanced Compatibility Engineering™ (ACE™) Body Structure
+    - Lower Anchors and Tethers for Child Seat (LATCH)
+    - Dual-Stage, Multiple-Threshold Front Airbags (SRS)
+    - Next-Generation Passenger Front Airbag
+    - Front Side Airbags
+    - Side Curtain Airbags
+    - Front Knee Airbags
+    - Vehicle Stability Assist™ (VSA®) with Traction Control
+    - 4-Wheel Anti-Lock Braking System (ABS)
+    - Electronic Brake Distribution (EBD)
+    - Brake Assist
+    - Tire Pressure Monitoring System (TPMS) with Tire Fill Assist
+    - Theft-Deterrent System with Electronic Immobilizer
+    - Multi-View Rear Camera with Dynamic Guidelines
+    - Maintenance Minder™ System
+
+- **Driver Convenience**
+    - Hill Start Assist
+    - Electric Parking Brake with Automatic Brake Hold
+    - Cruise Control
+    - Rear Camera Washer
+    - Auto-On/Off Headlight Operation with Wiper Compatibility
+    - Heated Side Mirrors with Reverse Gear Tilt-Down
+    - Automatic Dimming Frameless Rearview Mirror
+    - HomeLink®
+    - Compass
+
+- **Audio Connectivity**
+    - True Touchpad Interface™
+    - 10.2-Inch HD Dual-Content Center Display
+    - 7-Inch Color Multi-Information Display (MID)
+    - Wi-Fi Hotspot Capability
+    - Acura Navigation System with 3D View
+    - AcuraLink® Connected Services
+    - Natural Language Voice Recognition
+    - Wireless Apple CarPlay® Compatibility
+    - Wireless Android Auto™ Compatibility
+    - Alexa Built-In
+    - Bluetooth® HandsFreeLink® Wireless Telephone Interface
+    - Bluetooth® Streaming Audio
+    - ELS Studio® Premium Audio System with 12 Speakers
+    - Wireless Charging Pad (Qi)
+    - USB-A 2.5A Audio Interface
+    - USB-C Charge Port (1) 3.0A Charge Front Seat
+    - USB-C Charge Ports (2) 3.0A Charge Rear Seat
+    - SiriusXM®
+    - HD Radio®
+    - Speed-Sensitive Volume Compensation (SVC)
+    - 12-Volt Power Outlet (Front)
+
+- **Interior**
+    - Dual-Zone Automatic Climate Control with Humidity Control and Air Filtration
+    - GPS-Linked Climate Control
+    - Keyless Access System with Acura Personalized Settings
+    - Pushbutton Ignition
+    - Electronic Gear Selector
+    - Power Windows with Auto-Up/Down and Auto-Reverse
+    - Sport Seats with Perforated Milano Premium Leather-Trimmed Interior
+    - Front 12-Way Power Seats with Power Lumbar Support
+    - Heated Front Seats
+    - 60/40 Split Fold-Down Rear Seatback
+    - Tilt and Telescopic Steering Column
+    - Leather-Wrapped Steering Wheel
+    - Steering Wheel-Mounted Controls
+    - Active Sound Control
+    - Iconic Drive™ Ambient LED Cabin Lighting (27 Themes)
+    - Retained Accessory Power for Windows and Moonroof
+
+- **Exterior**
+    - Panoramic Roof with Tilt and Slide Function
+    - Jewel Eye® LED Headlights
+    - LED Daytime Running Lights
+    - LED-Illuminated Dragon Tail Taillights
+    - LED Side Mirror-Integrated Directional Signals
+    - Smart Entry with Walk Away Auto Lock® (All Doors and Tailgate)
+    - Power Lift Tailgate
+    - Acoustic Glass Windshield
+    - Acoustic Front Side Glass
+    - Remote-Operated Windows and Moonroof-Open Function
+    - Capless Fuel Fill

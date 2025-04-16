@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "garēji",
+    "headerTitle": "garēji",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -34,13 +34,13 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
+    "chatEmptyStateTitle": "Chat with your Vehicle Assistant",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "What features are available with AcuraLink for 2025 RDX?",
+        "2": "Where is Fuse Box Type A located in the 2025 MDX?",
+        "3": "How do you adjust the steering wheel in the 2025 RDX?",
+        "placeholder": "Type a new question (e.g. Who can I speak to about my AcuraLink subscription??)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
