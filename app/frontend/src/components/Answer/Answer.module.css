@@ -117,6 +117,13 @@ sup {
 
 .retryButton {
     width: fit-content;
+    background-color: #e42525;
+    border: #e42525;
+}
+
+.retryButton:hover {
+    background-color: #c41f1f; /* Change to your desired hover color */
+    border-color: #c41f1f; /* Match the border color if needed */
 }
 
 @keyframes loading {
