@@ -3,6 +3,8 @@ import logging
 import os
 import re
 from pathlib import Path
+import pathlib
+from dotenv import load_dotenv
 
 from azure.identity import AzureDeveloperCliCredential
 from dotenv_azd import load_azd_env
@@ -90,7 +92,9 @@ if __name__ == "__main__":
     )
     logger.setLevel(logging.INFO)
     logging.getLogger("evaltools").setLevel(logging.INFO)
-    load_azd_env()
+    #load_azd_env()
+    env_path = pathlib.Path("./.azure/shako/.env")
+    load_dotenv(env_path)    
 
     parser = argparse.ArgumentParser(description="Run evaluation with OpenAI configuration.")
     parser.add_argument("--targeturl", type=str, help="Specify the target URL.")

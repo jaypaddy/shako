@@ -1,0 +1,27 @@
+{
+    "evaluation_gpt_model": "gpt-4o",
+    "evaluation_timestamp": 1745852095,
+    "testdata_path": "C:\\Users\\japadman\\source\\shako\\evals\\ground_truth.jsonl",
+    "target_url": "https://capps-backend-fjpcy4ng4em7k.livelyflower-a53bca44.eastus2.azurecontainerapps.io/chat",
+    "target_parameters": {
+        "overrides": {
+            "top": 3,
+            "temperature": 0.3,
+            "minimum_reranker_score": 0,
+            "minimum_search_score": 0,
+            "retrieval_mode": "hybrid",
+            "semantic_ranker": true,
+            "semantic_captions": false,
+            "suggest_followup_questions": false,
+            "use_oid_security_filter": false,
+            "use_groups_security_filter": false,
+            "vector_fields": [
+                "embedding"
+            ],
+            "use_gpt4v": false,
+            "gpt4v_input": "textAndImages",
+            "seed": 1
+        }
+    },
+    "num_questions": 20
+}

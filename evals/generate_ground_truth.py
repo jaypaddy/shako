@@ -16,10 +16,13 @@ from ragas.testset import TestsetGenerator
 from ragas.testset.graph import KnowledgeGraph, Node, NodeType
 from ragas.testset.transforms import apply_transforms, default_transforms
 from rich.logging import RichHandler
+from dotenv import load_dotenv
+
 
 logger = logging.getLogger("ragapp")
 
 root_dir = pathlib.Path(__file__).parent
+print("root_dir", root_dir) 
 
 
 def get_azure_credential():
@@ -147,7 +150,9 @@ if __name__ == "__main__":
         level=logging.WARNING, format="%(message)s", datefmt="[%X]", handlers=[RichHandler(rich_tracebacks=True)]
     )
     logger.setLevel(logging.INFO)
-    load_azd_env()
+    #load_azd_env()
+    env_path = pathlib.Path("./.azure/shako/.env")
+    load_dotenv(env_path)
 
     parser = argparse.ArgumentParser(description="Generate ground truth data using AI Search index and RAGAS.")
     parser.add_argument("--numsearchdocs", type=int, help="Specify the number of search results to fetch")
