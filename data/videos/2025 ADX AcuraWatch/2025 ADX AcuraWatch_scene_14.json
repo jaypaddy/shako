@@ -1,0 +1,33 @@
+{
+  "markdown": "# Shot 00:38.967 => 00:55.120\n## Transcript\n```\nWEBVTT\n\n00:33.840 --> 00:40.480\n<v Speaker>Locate the driver assist system setup section, and once pressed, then scroll to the setting you wish to change.\n00:41.040 --> 00:46.080\n<v Speaker>You can set the distance on the forward collision warning to long, normal, or short.\n00:46.560 --> 00:47.880\n<v Speaker>The lane width on Rd.\n00:47.880 --> 00:54.560\n<v Speaker>departure mitigation can also be adjusted to narrow, normal, wide, or warning only.\n00:55.120 --> 01:01.120\n<v Speaker>For blind zone alert, you can choose a visual alert or both an audible and visual alert.\n```\n## Key Frames\n- 00:39.996 ![]\n- 00:41.019 ![]\n- 00:42.042 ![]\n- 00:43.065 ![]\n- 00:44.088 ![]\n- 00:45.111 ![]\n- 00:46.134 ![]\n- 00:47.157 ![]\n- 00:48.180 ![]\n- 00:49.203 ![]\n- 00:50.226 ![]\n- 00:51.249 ![]\n- 00:52.272 ![]\n- 00:53.295 ![]\n- 00:54.318 ![]",
+  "fields": {
+    "primaryTopic": "Driver Assist Systems Setup",
+    "subtopics": [
+      "Driver Assist System Setup",
+      "Forward Collision Warning",
+      "Road Departure Mitigation Settings"
+    ],
+    "learningObjectives": [
+      "Understand how to locate and adjust the driver assist system settings.",
+      "Learn the different distance settings for forward collision warning.",
+      "Explore the adjustable options for road departure mitigation."
+    ],
+    "frequentTerms": [
+      "Driver Assist System",
+      "Forward Collision Warning",
+      "Road Departure Mitigation"
+    ],
+    "questionsAsked": [
+      "How can you change the forward collision warning distance?",
+      "What options are available for road departure mitigation settings?"
+    ],
+    "visualContentType": "Software",
+    "externalReferences": [],
+    "summary": "The segment begins with the setup of the driver assist system, detailing how to adjust settings like forward collision warning distance and road departure mitigation lane width."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 38967,
+  "endTimeMs": 55120,
+  "width": 1280,
+  "height": 720
+}

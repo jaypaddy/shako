@@ -10,6 +10,7 @@ from .listfilestrategy import File, ListFileStrategy
 from .mediadescriber import ContentUnderstandingDescriber
 from .searchmanager import SearchManager, Section
 from .strategy import DocumentAction, SearchInfo, Strategy
+from .videomapper import VideoMapper
 
 logger = logging.getLogger("scripts")
 
@@ -98,13 +99,23 @@ class FileStrategy(Strategy):
             files = self.list_file_strategy.list()
             async for file in files:
                 try:
+                    fileClass = file.file_class().lower()
+                    if fileClass == "video":
+                        videoFile = VideoMapper(file)
+                        self.category = f"video:{videoFile.videoKind}"
                     sections = await parse_file(file, self.file_processors, self.category, self.image_embeddings)
                     if sections:
                         blob_sas_uris = await self.blob_manager.upload_blob(file)
                         blob_image_embeddings: Optional[list[list[float]]] = None
+                        masterFile = None
+                        if fileClass == "video":
+                            url = videoFile.videoUrl
+                            masterFile = videoFile.videoName
+                        else:
+                            url = file.url
                         if self.image_embeddings and blob_sas_uris:
                             blob_image_embeddings = await self.image_embeddings.create_embeddings(blob_sas_uris)
-                        await search_manager.update_content(sections, blob_image_embeddings, url=file.url)
+                        await search_manager.update_content(sections, blob_image_embeddings, url=url, masterFile=masterFile)
                 finally:
                     if file:
                         file.close()

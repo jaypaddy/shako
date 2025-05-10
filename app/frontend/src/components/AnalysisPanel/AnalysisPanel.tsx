@@ -38,6 +38,14 @@ export const AnalysisPanel = ({ answer, activeTab, activeCitation, citationHeigh
             // Get hash from the URL as it may contain #page=N
             // which helps browser PDF renderer jump to correct page N
             const originalHash = activeCitation.indexOf("#") ? activeCitation.split("#")[1] : "";
+
+            // Don't fetch blob if citation is a SharePoint URL
+            if (activeCitation.includes("https://") && (activeCitation.includes("sharepoint.com/") || activeCitation.includes("youtube.com/"))) {
+                // Video URL
+                setCitation(activeCitation);
+                return;
+            }
+
             const response = await fetch(activeCitation, {
                 method: "GET",
                 headers: await getHeaders(token)

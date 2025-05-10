@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:17.133 => 00:20.067\n## Transcript\n```\nWEBVTT\n\n00:13.920 --> 00:19.880\n<v Speaker>From adaptive cruise control to lane-keeping assist, we put people first in an unpredictable world.\n```\n## Key Frames\n- 00:17.853 ![]\n- 00:18.579 ![]\n- 00:19.305 ![]",
+  "fields": {
+    "primaryTopic": "Adaptive Cruise Control Features",
+    "subtopics": [],
+    "learningObjectives": [
+      "Understand adaptive cruise control and its dashboard display."
+    ],
+    "frequentTerms": [
+      "Adaptive Cruise Control"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Driver's view focusing on adaptive cruise control features."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 17133,
+  "endTimeMs": 20067,
+  "width": 1280,
+  "height": 720
+}

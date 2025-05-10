@@ -1,0 +1,27 @@
+{
+  "markdown": "# Shot 01:21.967 => 01:23.800\n## Transcript\n```\nWEBVTT\n\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:22.566 ![]\n- 01:23.160 ![]",
+  "fields": {
+    "primaryTopic": "Acura Watch suite of safety technologies",
+    "subtopics": [
+      "Dashboard display",
+      "Lane departure warning"
+    ],
+    "learningObjectives": [
+      "Understand the function of the lane departure warning system in Acura vehicles."
+    ],
+    "frequentTerms": [
+      "Acura Watch",
+      "lane departure",
+      "safety technologies"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "The video shows the dashboard of the Acura Integra, highlighting the lane departure warning system as part of the Acura Watch suite of safety technologies."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 81967,
+  "endTimeMs": 83800,
+  "width": 1280,
+  "height": 720
+}

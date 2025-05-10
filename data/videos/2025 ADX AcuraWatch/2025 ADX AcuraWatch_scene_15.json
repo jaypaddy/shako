@@ -1,0 +1,30 @@
+{
+  "markdown": "# Shot 00:55.120 => 01:10.800\n## Transcript\n```\nWEBVTT\n\n00:55.120 --> 01:01.120\n<v Speaker>For blind zone alert, you can choose a visual alert or both an audible and visual alert.\n01:01.360 --> 01:10.480\n<v Speaker>You can also activate the speed limit warning and set the threshold to, at limit, or three, 5, or 10 mph over the posted speed limit.\n01:10.800 --> 01:13.920\n<v Speaker>Audible alerts can be turned on or off for these systems.\n```\n## Key Frames\n- 00:55.341 ![]\n- 00:56.364 ![]\n- 00:57.387 ![]\n- 00:58.410 ![]\n- 00:59.433 ![]\n- 01:00.456 ![]\n- 01:01.479 ![]\n- 01:02.502 ![]\n- 01:03.525 ![]\n- 01:04.548 ![]\n- 01:05.571 ![]\n- 01:06.594 ![]\n- 01:07.617 ![]\n- 01:08.640 ![]\n- 01:09.663 ![]\n- 01:10.686 ![]",
+  "fields": {
+    "primaryTopic": "Alert Settings",
+    "subtopics": [
+      "Blind Zone Alert",
+      "Speed Limit Warning"
+    ],
+    "learningObjectives": [
+      "Learn how to set alerts for blind zones.",
+      "Understand how to configure speed limit warnings."
+    ],
+    "frequentTerms": [
+      "Blind Zone Alert",
+      "Speed Limit Warning"
+    ],
+    "questionsAsked": [
+      "What types of alerts are available for blind zone detection?",
+      "How can you set the speed limit warning threshold?"
+    ],
+    "visualContentType": "Software",
+    "externalReferences": [],
+    "summary": "The segment discusses options for blind zone alerts and speed limit warnings, including visual and audible alerts."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 55120,
+  "endTimeMs": 70800,
+  "width": 1280,
+  "height": 720
+}

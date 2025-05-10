@@ -1,0 +1,29 @@
+{
+  "markdown": "# Shot 01:25.566 => 01:31.600\n## Transcript\n```\nWEBVTT\n\n01:25.840 --> 01:30.880\n<v Speaker>For additional information, go to AcuraInfocenter.com or visit your local dealership.\n```\n## Key Frames\n- 01:26.427 ![]\n- 01:27.285 ![]\n- 01:28.143 ![]\n- 01:29.001 ![]\n- 01:29.859 ![]\n- 01:30.717 ![]",
+  "fields": {
+    "primaryTopic": "Acura brand and information resources",
+    "subtopics": [
+      "Acura brand",
+      "Additional resources"
+    ],
+    "learningObjectives": [
+      "Know where to find more information about Acura vehicles and safety technologies."
+    ],
+    "frequentTerms": [
+      "Acura",
+      "dealership",
+      "information"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "Presentation",
+    "externalReferences": [
+      "www.acurainfocenter.com"
+    ],
+    "summary": "The video concludes with information on where to find additional details about Acura vehicles and their safety features, directing viewers to the Acura Info Center and local dealerships."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 85567,
+  "endTimeMs": 91600,
+  "width": 1280,
+  "height": 720
+}
