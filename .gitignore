@@ -148,5 +148,9 @@ node_modules
 static/
 
 data/**/*.md5
-
+data/**/2024-MDX/*
+data/**/2024-RDX/*
+data/**/2025-MDX/*
+data/**/2024-ZDX/*
+data/**/2025-RDX/*
 .DS_Store
