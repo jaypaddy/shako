@@ -1,0 +1,26 @@
+{
+  "markdown": "# Shot 01:19.520 => 01:21.967\n## Transcript\n```\nWEBVTT\n\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:19.893 ![]",
+  "fields": {
+    "primaryTopic": "Safety and Assistive Technologies",
+    "subtopics": [
+      "Acura Watch Suite Overview"
+    ],
+    "learningObjectives": [
+      "Understand the benefits and features of the Acura Watch suite."
+    ],
+    "frequentTerms": [
+      "Acura Watch Suite"
+    ],
+    "questionsAsked": [
+      "What makes the Acura Watch suite innovative and effective?"
+    ],
+    "visualContentType": "Software",
+    "externalReferences": [],
+    "summary": "The Acura Watch suite is highlighted for its innovative and effective safety and assistive technologies."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 79520,
+  "endTimeMs": 81967,
+  "width": 1280,
+  "height": 720
+}

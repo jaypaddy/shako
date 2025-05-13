@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:00.000 => 00:00.167\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:00.099 ![]",
+  "fields": {
+    "primaryTopic": "ADX Model Introduction",
+    "subtopics": [],
+    "learningObjectives": [
+      "Identify the model featured in the video."
+    ],
+    "frequentTerms": [
+      "ADX"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "Presentation",
+    "externalReferences": [],
+    "summary": "Introduction to the video featuring the ADX model."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 0,
+  "endTimeMs": 167,
+  "width": 1280,
+  "height": 720
+}

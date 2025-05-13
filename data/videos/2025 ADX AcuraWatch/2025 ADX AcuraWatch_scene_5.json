@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:10.867 => 00:12.233\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:11.550 ![]",
+  "fields": {
+    "primaryTopic": "Lane Departure Warning",
+    "subtopics": [],
+    "learningObjectives": [
+      "Understand the function of lane departure warnings."
+    ],
+    "frequentTerms": [
+      "Lane Departure"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Dashboard displaying lane departure warning."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 10867,
+  "endTimeMs": 12233,
+  "width": 1280,
+  "height": 720
+}

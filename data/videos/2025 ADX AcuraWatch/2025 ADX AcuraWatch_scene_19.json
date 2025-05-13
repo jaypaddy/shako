@@ -1,0 +1,26 @@
+{
+  "markdown": "# Shot 01:23.800 => 01:25.566\n## Transcript\n```\nWEBVTT\n\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:24.381 ![]\n- 01:24.975 ![]",
+  "fields": {
+    "primaryTopic": "Acura Watch suite of safety technologies",
+    "subtopics": [
+      "Lane keeping assist",
+      "Vehicle safety technologies"
+    ],
+    "learningObjectives": [
+      "Learn how lane keeping assist helps in vehicle safety by maintaining the car's lane position."
+    ],
+    "frequentTerms": [
+      "lane keeping assist",
+      "vehicle safety"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "The video provides an aerial view of the Acura Integra driving with the lane keeping assist feature, demonstrating its effectiveness in maintaining lane position."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 83800,
+  "endTimeMs": 85567,
+  "width": 1280,
+  "height": 720
+}

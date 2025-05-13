@@ -1,0 +1,1204 @@
+{
+  "id": "458df22c-a0f7-4d06-9950-f74501ad315b",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "TrainingVideos",
+    "apiVersion": "2024-12-01-preview",
+    "createdAt": "2025-05-09T20:10:56Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# Shot 00:00.000 => 00:00.167\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:00.099 ![](keyFrame.99.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "ADX Model Introduction"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Identify the model featured in the video."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "ADX"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Presentation"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Introduction to the video featuring the ADX model."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 0,
+        "endTimeMs": 167,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:00.167 => 00:06.033\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:00.990 ![](keyFrame.990.jpg)\n- 00:01.815 ![](keyFrame.1815.jpg)\n- 00:02.640 ![](keyFrame.2640.jpg)\n- 00:03.465 ![](keyFrame.3465.jpg)\n- 00:04.290 ![](keyFrame.4290.jpg)\n- 00:05.115 ![](keyFrame.5115.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "AcuraWatch Technology"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand the role of AcuraWatch in vehicle safety."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "AcuraWatch"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Presentation"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Presentation of the AcuraWatch technology."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 167,
+        "endTimeMs": 6033,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:06.033 => 00:08.767\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:06.732 ![](keyFrame.6732.jpg)\n- 00:07.425 ![](keyFrame.7425.jpg)\n- 00:08.118 ![](keyFrame.8118.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Acura Integra Wheels"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Observe the design and functionality of Acura Integra wheels."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Acura Integra"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Footage of the Acura Integra's wheels in motion."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 6033,
+        "endTimeMs": 8767,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:08.767 => 00:10.867\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:09.471 ![](keyFrame.9471.jpg)\n- 00:10.164 ![](keyFrame.10164.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Rearview Camera Display"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Recognize the importance of rearview cameras for safety."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Rearview Camera"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Display of the rearview camera in the vehicle."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 8767,
+        "endTimeMs": 10867,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:10.867 => 00:12.233\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:11.550 ![](keyFrame.11550.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Lane Departure Warning"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand the function of lane departure warnings."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Lane Departure"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Dashboard displaying lane departure warning."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 10867,
+        "endTimeMs": 12233,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:12.233 => 00:13.667\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:12.969 ![](keyFrame.12969.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Driver's Perspective and Dashboard"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Identify dashboard indicators and their functions."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Dashboard Indicators"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "View of the road from the driver's perspective, showcasing the dashboard indicators."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 12233,
+        "endTimeMs": 13667,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:13.667 => 00:15.533\n## Transcript\n```\nWEBVTT\n\n00:13.920 --> 00:19.880\n<v Speaker>From adaptive cruise control to lane-keeping assist, we put people first in an unpredictable world.\n```\n## Key Frames\n- 00:14.289 ![](keyFrame.14289.jpg)\n- 00:14.916 ![](keyFrame.14916.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Dashboard Vehicle Status"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Learn how to read vehicle status indicators on the dashboard."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Vehicle Status"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Display of the dashboard showing vehicle status and settings."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 13667,
+        "endTimeMs": 15533,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:15.533 => 00:17.133\n## Transcript\n```\nWEBVTT\n\n00:13.920 --> 00:19.880\n<v Speaker>From adaptive cruise control to lane-keeping assist, we put people first in an unpredictable world.\n```\n## Key Frames\n- 00:16.071 ![](keyFrame.16071.jpg)\n- 00:16.599 ![](keyFrame.16599.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Lane Assist Technology"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Comprehend lane assist technology and its visual representation."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Lane Assist"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Visualization of Acura Integra with lane assist technology."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 15533,
+        "endTimeMs": 17133,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:17.133 => 00:20.067\n## Transcript\n```\nWEBVTT\n\n00:13.920 --> 00:19.880\n<v Speaker>From adaptive cruise control to lane-keeping assist, we put people first in an unpredictable world.\n```\n## Key Frames\n- 00:17.853 ![](keyFrame.17853.jpg)\n- 00:18.579 ![](keyFrame.18579.jpg)\n- 00:19.305 ![](keyFrame.19305.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Adaptive Cruise Control Features"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand adaptive cruise control and its dashboard display."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Adaptive Cruise Control"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Driver's view focusing on adaptive cruise control features."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 17133,
+        "endTimeMs": 20067,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:20.067 => 00:24.500\n## Transcript\n```\nWEBVTT\n\n00:20.480 --> 00:27.120\n<v Speaker>Standard on the all-new 2025 ADX, Acura Watch can be customized to suit your preferences.\n```\n## Key Frames\n- 00:20.955 ![](keyFrame.20955.jpg)\n- 00:21.846 ![](keyFrame.21846.jpg)\n- 00:22.737 ![](keyFrame.22737.jpg)\n- 00:23.628 ![](keyFrame.23628.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Driver Assist Settings"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Explore different driver assist settings available in the vehicle."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Driver Assist Settings"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Dashboard showing various driver assist settings."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 20067,
+        "endTimeMs": 24500,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:24.500 => 00:27.200\n## Transcript\n```\nWEBVTT\n\n00:20.480 --> 00:27.120\n<v Speaker>Standard on the all-new 2025 ADX, Acura Watch can be customized to suit your preferences.\n```\n## Key Frames\n- 00:25.146 ![](keyFrame.25146.jpg)\n- 00:25.806 ![](keyFrame.25806.jpg)\n- 00:26.466 ![](keyFrame.26466.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Steering Wheel Controls"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Learn how to use steering wheel controls for vehicle settings."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Steering Wheel Controls"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Demonstration of steering wheel controls for vehicle settings."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 24500,
+        "endTimeMs": 27200,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:27.200 => 00:28.833\n## Transcript\n```\nWEBVTT\n\n00:27.560 --> 00:33.400\n<v Speaker>While in park, navigate to and select the vehicle settings icon on the color touch screen.\n```\n## Key Frames\n- 00:27.753 ![](keyFrame.27753.jpg)\n- 00:28.314 ![](keyFrame.28314.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Vehicle Gear Shift"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand the significance of gear shift design and functionality."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Gear Shift"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Close-up of the vehicle's gear shift."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 27200,
+        "endTimeMs": 28833,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:28.833 => 00:38.967\n## Transcript\n```\nWEBVTT\n\n00:27.560 --> 00:33.400\n<v Speaker>While in park, navigate to and select the vehicle settings icon on the color touch screen.\n00:33.840 --> 00:40.480\n<v Speaker>Locate the driver assist system setup section, and once pressed, then scroll to the setting you wish to change.\n```\n## Key Frames\n- 00:29.766 ![](keyFrame.29766.jpg)\n- 00:30.690 ![](keyFrame.30690.jpg)\n- 00:31.614 ![](keyFrame.31614.jpg)\n- 00:32.538 ![](keyFrame.32538.jpg)\n- 00:33.462 ![](keyFrame.33462.jpg)\n- 00:34.386 ![](keyFrame.34386.jpg)\n- 00:35.310 ![](keyFrame.35310.jpg)\n- 00:36.234 ![](keyFrame.36234.jpg)\n- 00:37.158 ![](keyFrame.37158.jpg)\n- 00:38.082 ![](keyFrame.38082.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Vehicle Settings Interface"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": []
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Learn how to use the touch screen interface for vehicle settings."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Touch Screen Interface"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Software"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Navigating through the vehicle's touch screen settings interface."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 28833,
+        "endTimeMs": 38967,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:38.967 => 00:55.120\n## Transcript\n```\nWEBVTT\n\n00:33.840 --> 00:40.480\n<v Speaker>Locate the driver assist system setup section, and once pressed, then scroll to the setting you wish to change.\n00:41.040 --> 00:46.080\n<v Speaker>You can set the distance on the forward collision warning to long, normal, or short.\n00:46.560 --> 00:47.880\n<v Speaker>The lane width on Rd.\n00:47.880 --> 00:54.560\n<v Speaker>departure mitigation can also be adjusted to narrow, normal, wide, or warning only.\n00:55.120 --> 01:01.120\n<v Speaker>For blind zone alert, you can choose a visual alert or both an audible and visual alert.\n```\n## Key Frames\n- 00:39.996 ![](keyFrame.39996.jpg)\n- 00:41.019 ![](keyFrame.41019.jpg)\n- 00:42.042 ![](keyFrame.42042.jpg)\n- 00:43.065 ![](keyFrame.43065.jpg)\n- 00:44.088 ![](keyFrame.44088.jpg)\n- 00:45.111 ![](keyFrame.45111.jpg)\n- 00:46.134 ![](keyFrame.46134.jpg)\n- 00:47.157 ![](keyFrame.47157.jpg)\n- 00:48.180 ![](keyFrame.48180.jpg)\n- 00:49.203 ![](keyFrame.49203.jpg)\n- 00:50.226 ![](keyFrame.50226.jpg)\n- 00:51.249 ![](keyFrame.51249.jpg)\n- 00:52.272 ![](keyFrame.52272.jpg)\n- 00:53.295 ![](keyFrame.53295.jpg)\n- 00:54.318 ![](keyFrame.54318.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Driver Assist Systems Setup"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Driver Assist System Setup"
+              },
+              {
+                "type": "string",
+                "valueString": "Forward Collision Warning"
+              },
+              {
+                "type": "string",
+                "valueString": "Road Departure Mitigation Settings"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand how to locate and adjust the driver assist system settings."
+              },
+              {
+                "type": "string",
+                "valueString": "Learn the different distance settings for forward collision warning."
+              },
+              {
+                "type": "string",
+                "valueString": "Explore the adjustable options for road departure mitigation."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Driver Assist System"
+              },
+              {
+                "type": "string",
+                "valueString": "Forward Collision Warning"
+              },
+              {
+                "type": "string",
+                "valueString": "Road Departure Mitigation"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "How can you change the forward collision warning distance?"
+              },
+              {
+                "type": "string",
+                "valueString": "What options are available for road departure mitigation settings?"
+              }
+            ]
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Software"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "The segment begins with the setup of the driver assist system, detailing how to adjust settings like forward collision warning distance and road departure mitigation lane width."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 38967,
+        "endTimeMs": 55120,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 00:55.120 => 01:10.800\n## Transcript\n```\nWEBVTT\n\n00:55.120 --> 01:01.120\n<v Speaker>For blind zone alert, you can choose a visual alert or both an audible and visual alert.\n01:01.360 --> 01:10.480\n<v Speaker>You can also activate the speed limit warning and set the threshold to, at limit, or three, 5, or 10 mph over the posted speed limit.\n01:10.800 --> 01:13.920\n<v Speaker>Audible alerts can be turned on or off for these systems.\n```\n## Key Frames\n- 00:55.341 ![](keyFrame.55341.jpg)\n- 00:56.364 ![](keyFrame.56364.jpg)\n- 00:57.387 ![](keyFrame.57387.jpg)\n- 00:58.410 ![](keyFrame.58410.jpg)\n- 00:59.433 ![](keyFrame.59433.jpg)\n- 01:00.456 ![](keyFrame.60456.jpg)\n- 01:01.479 ![](keyFrame.61479.jpg)\n- 01:02.502 ![](keyFrame.62502.jpg)\n- 01:03.525 ![](keyFrame.63525.jpg)\n- 01:04.548 ![](keyFrame.64548.jpg)\n- 01:05.571 ![](keyFrame.65571.jpg)\n- 01:06.594 ![](keyFrame.66594.jpg)\n- 01:07.617 ![](keyFrame.67617.jpg)\n- 01:08.640 ![](keyFrame.68640.jpg)\n- 01:09.663 ![](keyFrame.69663.jpg)\n- 01:10.686 ![](keyFrame.70686.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Alert Settings"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Blind Zone Alert"
+              },
+              {
+                "type": "string",
+                "valueString": "Speed Limit Warning"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Learn how to set alerts for blind zones."
+              },
+              {
+                "type": "string",
+                "valueString": "Understand how to configure speed limit warnings."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Blind Zone Alert"
+              },
+              {
+                "type": "string",
+                "valueString": "Speed Limit Warning"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "What types of alerts are available for blind zone detection?"
+              },
+              {
+                "type": "string",
+                "valueString": "How can you set the speed limit warning threshold?"
+              }
+            ]
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Software"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "The segment discusses options for blind zone alerts and speed limit warnings, including visual and audible alerts."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 55120,
+        "endTimeMs": 70800,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 01:10.800 => 01:19.520\n## Transcript\n```\nWEBVTT\n\n01:10.800 --> 01:13.920\n<v Speaker>Audible alerts can be turned on or off for these systems.\n01:15.040 --> 01:18.800\n<v Speaker>And the traffic sign recognition system can be turned on or off.\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:11.709 ![](keyFrame.71709.jpg)\n- 01:12.732 ![](keyFrame.72732.jpg)\n- 01:13.755 ![](keyFrame.73755.jpg)\n- 01:14.778 ![](keyFrame.74778.jpg)\n- 01:15.801 ![](keyFrame.75801.jpg)\n- 01:16.824 ![](keyFrame.76824.jpg)\n- 01:17.847 ![](keyFrame.77847.jpg)\n- 01:18.870 ![](keyFrame.78870.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "System Alerts Configuration"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Audible Alerts"
+              },
+              {
+                "type": "string",
+                "valueString": "Traffic Sign Recognition System"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Explore options for turning audible alerts on or off."
+              },
+              {
+                "type": "string",
+                "valueString": "Learn about the functionality of the traffic sign recognition system."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Audible Alerts"
+              },
+              {
+                "type": "string",
+                "valueString": "Traffic Sign Recognition System"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Which systems offer audible alerts that can be turned on or off?"
+              },
+              {
+                "type": "string",
+                "valueString": "How can you manage the traffic sign recognition system settings?"
+              }
+            ]
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Software"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "Audible alerts can be customized for various systems, and the traffic sign recognition system can be activated or deactivated."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 70800,
+        "endTimeMs": 79520,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 01:19.520 => 01:21.967\n## Transcript\n```\nWEBVTT\n\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:19.893 ![](keyFrame.79893.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Safety and Assistive Technologies"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Acura Watch Suite Overview"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand the benefits and features of the Acura Watch suite."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Acura Watch Suite"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "What makes the Acura Watch suite innovative and effective?"
+              }
+            ]
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Software"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "The Acura Watch suite is highlighted for its innovative and effective safety and assistive technologies."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 79520,
+        "endTimeMs": 81967,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 01:21.967 => 01:23.800\n## Transcript\n```\nWEBVTT\n\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:22.566 ![](keyFrame.82566.jpg)\n- 01:23.160 ![](keyFrame.83160.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Acura Watch suite of safety technologies"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Dashboard display"
+              },
+              {
+                "type": "string",
+                "valueString": "Lane departure warning"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Understand the function of the lane departure warning system in Acura vehicles."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Acura Watch"
+              },
+              {
+                "type": "string",
+                "valueString": "lane departure"
+              },
+              {
+                "type": "string",
+                "valueString": "safety technologies"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "The video shows the dashboard of the Acura Integra, highlighting the lane departure warning system as part of the Acura Watch suite of safety technologies."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 81967,
+        "endTimeMs": 83800,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 01:23.800 => 01:25.566\n## Transcript\n```\nWEBVTT\n\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:24.381 ![](keyFrame.84381.jpg)\n- 01:24.975 ![](keyFrame.84975.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Acura Watch suite of safety technologies"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Lane keeping assist"
+              },
+              {
+                "type": "string",
+                "valueString": "Vehicle safety technologies"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Learn how lane keeping assist helps in vehicle safety by maintaining the car's lane position."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "lane keeping assist"
+              },
+              {
+                "type": "string",
+                "valueString": "vehicle safety"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "LiveAction"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": []
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "The video provides an aerial view of the Acura Integra driving with the lane keeping assist feature, demonstrating its effectiveness in maintaining lane position."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 83800,
+        "endTimeMs": 85567,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "markdown": "# Shot 01:25.566 => 01:31.600\n## Transcript\n```\nWEBVTT\n\n01:25.840 --> 01:30.880\n<v Speaker>For additional information, go to AcuraInfocenter.com or visit your local dealership.\n```\n## Key Frames\n- 01:26.427 ![](keyFrame.86427.jpg)\n- 01:27.285 ![](keyFrame.87285.jpg)\n- 01:28.143 ![](keyFrame.88143.jpg)\n- 01:29.001 ![](keyFrame.89001.jpg)\n- 01:29.859 ![](keyFrame.89859.jpg)\n- 01:30.717 ![](keyFrame.90717.jpg)",
+        "fields": {
+          "primaryTopic": {
+            "type": "string",
+            "valueString": "Acura brand and information resources"
+          },
+          "subtopics": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Acura brand"
+              },
+              {
+                "type": "string",
+                "valueString": "Additional resources"
+              }
+            ]
+          },
+          "learningObjectives": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Know where to find more information about Acura vehicles and safety technologies."
+              }
+            ]
+          },
+          "frequentTerms": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "Acura"
+              },
+              {
+                "type": "string",
+                "valueString": "dealership"
+              },
+              {
+                "type": "string",
+                "valueString": "information"
+              }
+            ]
+          },
+          "questionsAsked": {
+            "type": "array",
+            "valueArray": []
+          },
+          "visualContentType": {
+            "type": "string",
+            "valueString": "Presentation"
+          },
+          "externalReferences": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "string",
+                "valueString": "www.acurainfocenter.com"
+              }
+            ]
+          },
+          "summary": {
+            "type": "string",
+            "valueString": "The video concludes with information on where to find additional details about Acura vehicles and their safety features, directing viewers to the Acura Info Center and local dealerships."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 85567,
+        "endTimeMs": 91600,
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  }
+}

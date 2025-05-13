@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:20.067 => 00:24.500\n## Transcript\n```\nWEBVTT\n\n00:20.480 --> 00:27.120\n<v Speaker>Standard on the all-new 2025 ADX, Acura Watch can be customized to suit your preferences.\n```\n## Key Frames\n- 00:20.955 ![]\n- 00:21.846 ![]\n- 00:22.737 ![]\n- 00:23.628 ![]",
+  "fields": {
+    "primaryTopic": "Driver Assist Settings",
+    "subtopics": [],
+    "learningObjectives": [
+      "Explore different driver assist settings available in the vehicle."
+    ],
+    "frequentTerms": [
+      "Driver Assist Settings"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Dashboard showing various driver assist settings."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 20067,
+  "endTimeMs": 24500,
+  "width": 1280,
+  "height": 720
+}

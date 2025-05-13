@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:00.167 => 00:06.033\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:00.990 ![]\n- 00:01.815 ![]\n- 00:02.640 ![]\n- 00:03.465 ![]\n- 00:04.290 ![]\n- 00:05.115 ![]",
+  "fields": {
+    "primaryTopic": "AcuraWatch Technology",
+    "subtopics": [],
+    "learningObjectives": [
+      "Understand the role of AcuraWatch in vehicle safety."
+    ],
+    "frequentTerms": [
+      "AcuraWatch"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "Presentation",
+    "externalReferences": [],
+    "summary": "Presentation of the AcuraWatch technology."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 167,
+  "endTimeMs": 6033,
+  "width": 1280,
+  "height": 720
+}

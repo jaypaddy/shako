@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:15.533 => 00:17.133\n## Transcript\n```\nWEBVTT\n\n00:13.920 --> 00:19.880\n<v Speaker>From adaptive cruise control to lane-keeping assist, we put people first in an unpredictable world.\n```\n## Key Frames\n- 00:16.071 ![]\n- 00:16.599 ![]",
+  "fields": {
+    "primaryTopic": "Lane Assist Technology",
+    "subtopics": [],
+    "learningObjectives": [
+      "Comprehend lane assist technology and its visual representation."
+    ],
+    "frequentTerms": [
+      "Lane Assist"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Visualization of Acura Integra with lane assist technology."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 15533,
+  "endTimeMs": 17133,
+  "width": 1280,
+  "height": 720
+}

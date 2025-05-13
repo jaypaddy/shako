@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:08.767 => 00:10.867\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:09.471 ![]\n- 00:10.164 ![]",
+  "fields": {
+    "primaryTopic": "Rearview Camera Display",
+    "subtopics": [],
+    "learningObjectives": [
+      "Recognize the importance of rearview cameras for safety."
+    ],
+    "frequentTerms": [
+      "Rearview Camera"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Display of the rearview camera in the vehicle."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 8767,
+  "endTimeMs": 10867,
+  "width": 1280,
+  "height": 720
+}

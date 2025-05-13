@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:27.200 => 00:28.833\n## Transcript\n```\nWEBVTT\n\n00:27.560 --> 00:33.400\n<v Speaker>While in park, navigate to and select the vehicle settings icon on the color touch screen.\n```\n## Key Frames\n- 00:27.753 ![]\n- 00:28.314 ![]",
+  "fields": {
+    "primaryTopic": "Vehicle Gear Shift",
+    "subtopics": [],
+    "learningObjectives": [
+      "Understand the significance of gear shift design and functionality."
+    ],
+    "frequentTerms": [
+      "Gear Shift"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Close-up of the vehicle's gear shift."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 27200,
+  "endTimeMs": 28833,
+  "width": 1280,
+  "height": 720
+}

@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:28.833 => 00:38.967\n## Transcript\n```\nWEBVTT\n\n00:27.560 --> 00:33.400\n<v Speaker>While in park, navigate to and select the vehicle settings icon on the color touch screen.\n00:33.840 --> 00:40.480\n<v Speaker>Locate the driver assist system setup section, and once pressed, then scroll to the setting you wish to change.\n```\n## Key Frames\n- 00:29.766 ![]\n- 00:30.690 ![]\n- 00:31.614 ![]\n- 00:32.538 ![]\n- 00:33.462 ![]\n- 00:34.386 ![]\n- 00:35.310 ![]\n- 00:36.234 ![]\n- 00:37.158 ![]\n- 00:38.082 ![]",
+  "fields": {
+    "primaryTopic": "Vehicle Settings Interface",
+    "subtopics": [],
+    "learningObjectives": [
+      "Learn how to use the touch screen interface for vehicle settings."
+    ],
+    "frequentTerms": [
+      "Touch Screen Interface"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "Software",
+    "externalReferences": [],
+    "summary": "Navigating through the vehicle's touch screen settings interface."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 28833,
+  "endTimeMs": 38967,
+  "width": 1280,
+  "height": 720
+}

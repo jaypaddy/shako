@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:12.233 => 00:13.667\n## Transcript\n```\nWEBVTT\n\n00:05.120 --> 00:13.520\n<v Speaker>Acura Watch, our suite of safety and driver assistive technologies, is helping to move closer to a future with fewer crashes and injuries.\n```\n## Key Frames\n- 00:12.969 ![]",
+  "fields": {
+    "primaryTopic": "Driver's Perspective and Dashboard",
+    "subtopics": [],
+    "learningObjectives": [
+      "Identify dashboard indicators and their functions."
+    ],
+    "frequentTerms": [
+      "Dashboard Indicators"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "View of the road from the driver's perspective, showcasing the dashboard indicators."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 12233,
+  "endTimeMs": 13667,
+  "width": 1280,
+  "height": 720
+}

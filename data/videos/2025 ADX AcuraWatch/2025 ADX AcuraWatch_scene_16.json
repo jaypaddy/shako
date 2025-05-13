@@ -1,0 +1,30 @@
+{
+  "markdown": "# Shot 01:10.800 => 01:19.520\n## Transcript\n```\nWEBVTT\n\n01:10.800 --> 01:13.920\n<v Speaker>Audible alerts can be turned on or off for these systems.\n01:15.040 --> 01:18.800\n<v Speaker>And the traffic sign recognition system can be turned on or off.\n01:19.520 --> 01:25.360\n<v Speaker>The Acura Watch suite of safety and driver assistive technologies are as innovative as they are effective.\n```\n## Key Frames\n- 01:11.709 ![]\n- 01:12.732 ![]\n- 01:13.755 ![]\n- 01:14.778 ![]\n- 01:15.801 ![]\n- 01:16.824 ![]\n- 01:17.847 ![]\n- 01:18.870 ![]",
+  "fields": {
+    "primaryTopic": "System Alerts Configuration",
+    "subtopics": [
+      "Audible Alerts",
+      "Traffic Sign Recognition System"
+    ],
+    "learningObjectives": [
+      "Explore options for turning audible alerts on or off.",
+      "Learn about the functionality of the traffic sign recognition system."
+    ],
+    "frequentTerms": [
+      "Audible Alerts",
+      "Traffic Sign Recognition System"
+    ],
+    "questionsAsked": [
+      "Which systems offer audible alerts that can be turned on or off?",
+      "How can you manage the traffic sign recognition system settings?"
+    ],
+    "visualContentType": "Software",
+    "externalReferences": [],
+    "summary": "Audible alerts can be customized for various systems, and the traffic sign recognition system can be activated or deactivated."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 70800,
+  "endTimeMs": 79520,
+  "width": 1280,
+  "height": 720
+}

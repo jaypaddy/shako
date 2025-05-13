@@ -253,7 +253,7 @@ class SearchManager:
                         )
 
     async def update_content(
-        self, sections: list[Section], image_embeddings: Optional[list[list[float]]] = None, url: Optional[str] = None
+        self, sections: list[Section], image_embeddings: Optional[list[list[float]]] = None, url: Optional[str] = None, masterFile: Optional[str] = None
     ):
         MAX_BATCH_SIZE = 1000
         section_batches = [sections[i : i + MAX_BATCH_SIZE] for i in range(0, len(sections), MAX_BATCH_SIZE)]
@@ -276,7 +276,7 @@ class SearchManager:
                                 page=section.split_page.page_num,
                             )
                         ),
-                        "sourcefile": section.content.filename(),
+                        "sourcefile": masterFile if masterFile else section.content.filename(),
                         **section.content.acls,
                     }
                     for section_index, section in enumerate(batch)

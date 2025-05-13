@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:24.500 => 00:27.200\n## Transcript\n```\nWEBVTT\n\n00:20.480 --> 00:27.120\n<v Speaker>Standard on the all-new 2025 ADX, Acura Watch can be customized to suit your preferences.\n```\n## Key Frames\n- 00:25.146 ![]\n- 00:25.806 ![]\n- 00:26.466 ![]",
+  "fields": {
+    "primaryTopic": "Steering Wheel Controls",
+    "subtopics": [],
+    "learningObjectives": [
+      "Learn how to use steering wheel controls for vehicle settings."
+    ],
+    "frequentTerms": [
+      "Steering Wheel Controls"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Demonstration of steering wheel controls for vehicle settings."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 24500,
+  "endTimeMs": 27200,
+  "width": 1280,
+  "height": 720
+}

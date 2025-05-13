@@ -1,0 +1,22 @@
+{
+  "markdown": "# Shot 00:13.667 => 00:15.533\n## Transcript\n```\nWEBVTT\n\n00:13.920 --> 00:19.880\n<v Speaker>From adaptive cruise control to lane-keeping assist, we put people first in an unpredictable world.\n```\n## Key Frames\n- 00:14.289 ![]\n- 00:14.916 ![]",
+  "fields": {
+    "primaryTopic": "Dashboard Vehicle Status",
+    "subtopics": [],
+    "learningObjectives": [
+      "Learn how to read vehicle status indicators on the dashboard."
+    ],
+    "frequentTerms": [
+      "Vehicle Status"
+    ],
+    "questionsAsked": [],
+    "visualContentType": "LiveAction",
+    "externalReferences": [],
+    "summary": "Display of the dashboard showing vehicle status and settings."
+  },
+  "kind": "audioVisual",
+  "startTimeMs": 13667,
+  "endTimeMs": 15533,
+  "width": 1280,
+  "height": 720
+}
